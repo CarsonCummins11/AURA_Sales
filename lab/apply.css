@@ -1,5 +1,5 @@
 .AURA-apply-button{
-    background-image: url('https://joinaura.us/lab/assets/apply/apply.svg');
+    background-image: url('https://www.joinaura.us/lab/assets/apply/apply.svg');
     background-position: center center;
     width: 132px;
     height: 37.175px;
@@ -7,6 +7,6 @@
     background-repeat: no-repeat;
 }
 .AURA-apply-button:hover{
-    background-image: url('https://joinaura.us/lab/assets/apply/apply-hover.svg');
+    background-image: url('https://www.joinaura.us/lab/assets/apply/apply-hover.svg');
     cursor: pointer;
 }
