@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.25b62417.css",
+    "main.js": "/static/js/main.cc36ad6a.js",
+    "static/js/787.24cb69dd.chunk.js": "/static/js/787.24cb69dd.chunk.js",
+    "static/media/heroImageNew.png": "/static/media/heroImageNew.aa54e627f9189c584e55.png",
+    "static/media/searchImageShadow.png": "/static/media/searchImageShadow.ead7185c75033a1a8fbc.png",
+    "static/media/listing.png": "/static/media/listing.2153504e63ff92786fd6.png",
+    "static/media/apply.png": "/static/media/apply.e2ae9d1f3930040ef781.png",
+    "static/media/applicant.png": "/static/media/applicant.d0186c70d0b1925d4720.png",
+    "static/media/studentProfileShadow.png": "/static/media/studentProfileShadow.572804c4e3b153fe5674.png",
+    "static/media/searchAndApply.png": "/static/media/searchAndApply.13789da4d2010dfbbea2.png",
+    "static/media/logo.svg": "/static/media/logo.4dce82fd7ff5dfd41a6e21f70e8d1b6d.svg",
+    "static/media/book.svg": "/static/media/book.e56ba8ec62671194f022ad14f35274ef.svg",
+    "index.html": "/index.html",
+    "static/media/pencil.svg": "/static/media/pencil.3758f4ea7acd74916c2016c8b104825b.svg",
+    "main.25b62417.css.map": "/static/css/main.25b62417.css.map",
+    "main.cc36ad6a.js.map": "/static/js/main.cc36ad6a.js.map",
+    "787.24cb69dd.chunk.js.map": "/static/js/787.24cb69dd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25b62417.css",
+    "static/js/main.cc36ad6a.js"
+  ]
+}
